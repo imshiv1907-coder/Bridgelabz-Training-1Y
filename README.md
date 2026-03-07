@@ -11,8 +11,9 @@
 ---
 
 ## 🚀 About Me
-*🔭  I’m currently Practising **DSA**
+
 * 🌱 I’m currently learning **Object-Oriented Programming (OOP)**
+* 🔭  I’m currently Practising **Data Structures and Algorithms (DSA)**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * ⚡ Fun fact: **I love turning ideas into code**
 
@@ -25,6 +26,7 @@
 * JavaScript
 * C Programming
 * C++
+* Java
 * Git & GitHub
 
 

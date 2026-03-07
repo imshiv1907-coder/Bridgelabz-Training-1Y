@@ -31,8 +31,9 @@
 
 ## 🌐 Connect with Me
 
-* GitHub:https://github.com/imshiv1907-coder
-* LinkedIn:https://www.linkedin.com/in/imshiv1907/
+* GitHub: https://github.com/imshiv1907-coder
+* LinkedIn: https://www.linkedin.com/in/imshiv1907/
+* Gmail: imshiv1907@gmail.com
 
 ---
 

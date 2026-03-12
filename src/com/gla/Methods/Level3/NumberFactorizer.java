@@ -1,7 +1,8 @@
 package com.gla.Methods.Level3;
 import java.util.Scanner;
+import java.util.Arrays;
 public class NumberFactorizer {
-    import java.util.Arrays;
+
 
         public static int[] findFactors(int number) {
             int count = 0;

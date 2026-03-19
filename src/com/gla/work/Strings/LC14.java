@@ -3,7 +3,7 @@ package com.gla.work.Strings;
 public class LC14 {
 
         public String longestCommonPrefix(String[] strs) {
-            Arrays.sort(strs);
+            //Arrays.sort(strs);
             int i=0;
             String ans="";
             while(i<strs[0].length()&&i<strs[strs.length-1].length()){

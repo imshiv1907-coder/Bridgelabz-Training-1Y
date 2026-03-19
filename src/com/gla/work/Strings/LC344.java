@@ -13,7 +13,7 @@ package com.gla.work.Strings;
                 j--;
             }
 
-        public static void main(String[] args) {
-        }
+       // public static void main(String[] args) {
+
     }
 }
